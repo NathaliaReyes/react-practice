@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import '../stylesheets/Button.css';
 // Aplicamos sintaxis de desestructuración
 
